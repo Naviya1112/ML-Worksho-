@@ -8,7 +8,7 @@ import streamlit as st
 import plotly.graph_objects as px
 
 st.title("My ML Workshop")
-tab1, tab2, tab3 = st.tabs(["Penguin Prediction", "Evaluation", "Abount"])
+tab1, tab2, tab3 = st.tabs(["Penguin Prediction", "Evaluation", "About"])
 
 with tab1:
 
